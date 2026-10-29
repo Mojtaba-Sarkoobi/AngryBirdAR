@@ -1,4 +1,8 @@
 # AngryBirdAR
 The game to kill angryBirds with AR
 
-[<video src="https://github.com/Mojtaba-Sarkoobi/AngryBirdAR/raw/main/AR_shoot_birds.mp4" controls="controls" width="100%"></video>](https://github.com/Mojtaba-Sarkoobi/AngryBirdAR/raw/main/AR_shoot_birds.mp4)
+
+
+https://github.com/user-attachments/assets/35882142-147a-4ae4-a542-76f09327e1b5
+
+
